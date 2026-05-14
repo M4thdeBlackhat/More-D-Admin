@@ -1,6 +1,6 @@
 # More-D-Admin
 
-A professional Windows 11 desktop utility for system administration tasks with a modern dark UI.
+A professional open-source Windows 11 desktop utility for system administration tasks with a modern dark UI.
 
 ## Features
 
@@ -122,7 +122,11 @@ More-D-Admin/
 
 ## License
 
-Proprietary - All rights reserved
+MIT License - See LICENSE file for details
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
